@@ -1,2 +1,4 @@
 /cifs/
 cod-cifs-mysql.zip
+.ipynb_checkpoints/
+.venv/
